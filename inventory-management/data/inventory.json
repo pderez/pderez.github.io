@@ -1,1 +1,15 @@
+[
+    {
+        "name": "Producto 1",
+        "quantity": 10
+    },
+    {
+        "name": "Producto 2",
+        "quantity": 3
+    },
+    {
+        "name": "Producto 3",
+        "quantity": 7
+    }
+]
 
