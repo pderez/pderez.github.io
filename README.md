@@ -29,7 +29,7 @@ Este proyecto es un sistema de gestión de inventarios diseñado para pequeñas 
 
 1. Clona este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/inventory-management.git
+   git clone https://github.com/pderez/inventory-management.git
    ```
 2. Navega al directorio del proyecto:
    ```bash
