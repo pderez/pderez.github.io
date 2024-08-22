@@ -1,6 +1,6 @@
-Inventory Management
+# Inventory Management
 
-## Descrip
+## Descripción
 
 Este proyecto es un sistema de gestión de inventarios diseñado para pequeñas empresas. Permite a los usuarios gestionar sus productos de manera eficiente, realizando tareas como agregar, editar, y eliminar productos, así como ver reportes de inventario.
 
@@ -48,7 +48,3 @@ Simplemente abre el archivo `index.html` en tu navegador preferido y empieza a g
 ## Licencia
 
 Este proyecto está bajo la licencia MIT. Consulta el archivo `LICENSE` para más detalles.
-
----
-
-Este `README.md` proporciona una descripción clara y concisa de tu proyecto, incluyendo su estructura, características, y cómo contribuir. Puedes ajustarlo según las necesidades específicas de tu proyecto.
